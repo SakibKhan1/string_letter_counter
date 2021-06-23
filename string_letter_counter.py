@@ -8,4 +8,4 @@ def count_letters_in_string(string):
         letter_counts[letter] += 1
     return letter_counts
 
-print(count_letters_in_string('Hello, my name is Sakib'))
+print(count_letters_in_string('Sakib'))
